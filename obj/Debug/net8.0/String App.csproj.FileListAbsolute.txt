@@ -1,0 +1,14 @@
+D:\MYDOCUMENTS\DESKTOP\BTK\String App\obj\Debug\net8.0\String App.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYDOCUMENTS\DESKTOP\BTK\String App\obj\Debug\net8.0\String App.AssemblyInfoInputs.cache
+D:\MYDOCUMENTS\DESKTOP\BTK\String App\obj\Debug\net8.0\String App.AssemblyInfo.cs
+D:\MYDOCUMENTS\DESKTOP\BTK\String App\obj\Debug\net8.0\String App.csproj.CoreCompileInputs.cache
+D:\MYDOCUMENTS\DESKTOP\BTK\String App\bin\Debug\net8.0\String App.exe
+D:\MYDOCUMENTS\DESKTOP\BTK\String App\bin\Debug\net8.0\String App.deps.json
+D:\MYDOCUMENTS\DESKTOP\BTK\String App\bin\Debug\net8.0\String App.runtimeconfig.json
+D:\MYDOCUMENTS\DESKTOP\BTK\String App\bin\Debug\net8.0\String App.dll
+D:\MYDOCUMENTS\DESKTOP\BTK\String App\bin\Debug\net8.0\String App.pdb
+D:\MYDOCUMENTS\DESKTOP\BTK\String App\obj\Debug\net8.0\String App.dll
+D:\MYDOCUMENTS\DESKTOP\BTK\String App\obj\Debug\net8.0\refint\String App.dll
+D:\MYDOCUMENTS\DESKTOP\BTK\String App\obj\Debug\net8.0\String App.pdb
+D:\MYDOCUMENTS\DESKTOP\BTK\String App\obj\Debug\net8.0\String App.genruntimeconfig.cache
+D:\MYDOCUMENTS\DESKTOP\BTK\String App\obj\Debug\net8.0\ref\String App.dll
